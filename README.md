@@ -27,11 +27,11 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
 - Operacional de Trabalho Desenvolvedor Multicloud para cada nuvem a seguir:
   - [Amazon Web Services – AWS](certificacoes-aws/README.md)
   - [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
-  - [Microsoft Azure](#)
-  - [RedHat OpenShift](#)
-  - [Oracle Cloud](#)
-  - [Heroku – Plataform Cloud](#)
-  - [Spring Cloud](#)
+  - [Microsoft Azure](certificacoes-azure/README.md)
+  - [RedHat OpenShift](certificacoes-redhat-openshift/README.md)
+  - [Oracle Cloud](certificacoes-oc/README.md)
+  - [Heroku – Plataform Cloud](certificacoes-hpc/README.md)
+  - [Spring Cloud](certificacoes-sp/README.md)
 
 
 Projeto inicializado com o [`Scripts de automação próprio`]().
