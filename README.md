@@ -1,6 +1,6 @@
 # Provedor de Nuvem Certificações (provedor-nuvem-cetifications)
 
-Projeto prova de conceito - POC para aplicar os conhecimentos abstratos relacionados ao _**Protocolo de Trabalho Operacional das stacks de um Desenvolvedor Fullstack Multicloud_**!
+Projeto prova de conceito - POC para aplicar os conhecimentos abstratos relacionados ao _**Protocolo de Trabalho Operacional das stacks de um Desenvolvedor Fullstack Multicloud**_!
 
 --- 
 
