@@ -32,3 +32,36 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
   - [Oracle Cloud](#)
   - [Heroku – Plataform Cloud](#)
   - [Spring Cloud](#)
+
+
+Projeto inicializado com o [`Scripts de automação próprio`]().
+
+
+## 🚀 Começando
+
+### 🔧 Instalação
+
+Para obter o presente projeto use os seguintes comandos:
+
+```bash
+mkdir -p "${HOME}/projetos"
+cd "${HOME}/projetos"
+git clone https://github.com/pssilva/provedor-nuvem-certifications.git
+cd provedor-nuvem-certifications
+source ~/.bash_profile
+idea .
+```
+
+
+#### 📋 Pré-requisitos
+
+Depois de baixar o projeto: De que coisas precisamos para atuar no projeto `provedor-nuvem-certifications` e executá-lo?
+
+Para isso, use os comandos do script de automação:
+
+```bash
+
+[TRABALHO EM PROGRESSO]
+
+```
+
