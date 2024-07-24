@@ -25,8 +25,8 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
   - Identificar o [Cenário de Negócios e Caso de Uso](#) 
   - Identificar o [Fluxo de Trabalho do Processo Compartilhado](#) 
 - Operacional de Trabalho Desenvolvedor Multicloud para cada nuvem a seguir:
-  - [Amazon Web Services – AWS](#)
-  - [Google Cloud Platform – GCP](#)
+  - [Amazon Web Services – AWS](certificacoes-aws/README.md)
+  - [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
   - [Microsoft Azure](#)
   - [RedHat OpenShift](#)
   - [Oracle Cloud](#)
