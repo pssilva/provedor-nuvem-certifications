@@ -18,15 +18,14 @@ Seguem as orientações práticas para implantação dos piperlines de CI / CD. 
 
 Procuro evidência as proficiências nas seguintes habilidades técnicas:
 
-- [TRABALHO EM PROGRESSO]()
-- Listabem não definida até o momento!
-- [Aplicativos Distribuidos como Software como Serviço (SaaS)](#saas) para consumir e gerar soluções com processamento distribuido e com computação em nuvem.
+- [Aplicativos Distribuidos como Software como Serviço (SaaS)](#STIGLER-Maddie) para consumir e gerar soluções com processamento distribuido e com computação em nuvem.
 - [Preparando Cenários e com Casos de Uso de Negócios](#) usando os recursos de Plataforma como Serviço (PaaS) de cada Procedor de nuvem: 
   - Identificar o [Cenário de Negócios e Caso de Uso](#) 
-  - Identificar o [Fluxo de Trabalho do Processo Compartilhado](#) 
-- Operacional de Trabalho Desenvolvedor Multicloud para cada nuvem a seguir:
-  - [Amazon Web Services – AWS](#)
-  - [Google Cloud Platform – GCP](#)
+  - Identificar o [Fluxo de Trabalho do Processo Compartilhado](#)
+  - Identificar os Casos de Usos [Functions as a Service (FaaS)](#STIGLER-Maddie)
+- Operacional de Trabalho [Desenvolvedor Multicloud](#STIGLER-Maddie) para cada nuvem a seguir:
+  - [Amazon Web Services – AWS](certificacoes-aws/README.md)
+  - [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
   - [Microsoft Azure](#)
   - [RedHat OpenShift](#)
   - [Oracle Cloud](#)
@@ -52,7 +51,6 @@ source ~/.bash_profile
 idea .
 ```
 
-
 #### 📋 Pré-requisitos
 
 Depois de baixar o projeto: De que coisas precisamos para atuar no projeto `provedor-nuvem-certifications` e executá-lo?
@@ -63,7 +61,6 @@ Para isso, use os comandos do script de automação:
 [TRABALHO EM PROGRESSO]
 ```
 
-
 ## 🔩 Débitos Técnicos
 
 Aqui temos uma lista do que idenficamos com status de pendente:
@@ -73,7 +70,6 @@ Aqui temos uma lista do que idenficamos com status de pendente:
 Segue abaixo (não se limita) os objetivos do presente projeto:
 
 - [X] ~~Formatando documentação README.md~~
-- [ ] Descrição sucinta [TRABALHO EM PROGRESSO]
 
 ### Atividades - DevOps
 
@@ -115,7 +111,18 @@ Seque abaixo as referências bibliográficas usadas no presente projeto:
 
 ---
 
-### Vídeos / Playlists
+<p align="justify">
+[<a id="CASTRO-LEON">CASTRO-LEON, Enrique; HARMON, Robert</a>]; <a href="https://a.co/d/2eNpKAc">Cloud as a Service: Understanding the Service Innovation Ecosystem</a>.1 Ed.. Editora: Apress; 1st ed. edição (23 dezembro 2016). Copyright © 2016 by Enrique Castro-Leon and Robert Harmon. 337 páginas. (Library of Congress Control Number: 2016961822, ISBN-10: 1484201043; ISBN-13 : 978-1484201046). Disponível em: < <a href="https://a.co/d/2eNpKAc">https://a.co/d/2eNpKAc</a> >. Acesso em: 24 jul. 2024.
+</p>
 
 ---
 
+<p align="justify">
+[<a id="STIGLER-Maddie">STIGLER, Maddie</a>]. <a href="https://a.co/d/7tIdtSM">Beginning Serverless Computing Developing with Amazon Web Services: Microsoft Azure, and Google Cloud. 1 Ed. Richmond, Virginia, USA</a>. Editora: Apress; 1st ed. edição (25 novembro 2017). Copyright © 2018 by Maddie Stigler. 199 páginas. (Nome da série e/ou coleção, ISBN-13 (pbk): 978-1-4842-3083-1). Disponível em: < <a href="https://a.co/d/7tIdtSM">https://a.co/d/7tIdtSM</a> >. Acesso em: 24 jul. 2024.
+</p>
+
+---
+
+### Vídeos / Playlists
+
+---
