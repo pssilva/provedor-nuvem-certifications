@@ -14,6 +14,15 @@ Seguem as orientações práticas para implantação dos piperlines de CI / CD. 
 
 --- 
 
+Tendo em mente que para a presente Certificação, para O Conteúdo programático identificar:
+- Objetivo dos Tópicos, para cada tópico, explodir em Habilidades;
+- Para cada habilidade, identificar boas práticas e seus usos Empírico;
+- Identificar a forma do como é cobrado o conhecimento no exame;
+- identificar, em projetos open-source, o uso dos conceitos na prática;
+- Elaborar estratégias (checklists) de refatoração para aplicar boas práticas em projetos legados;
+
+--- 
+
 ## Proficiências
 
 Procuro evidência as proficiências nas seguintes habilidades técnicas:
