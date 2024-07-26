@@ -38,7 +38,7 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
     - [Certificação AWS Certified DevOps Engineer – Professional](certificacoes-aws/aws-aws-devops-engineer-professional/README.md)
     - [Certificação AWS Certified Solutions Architect – Associate](certificacoes-aws/aws-solution-arch-associate-certification/README.md)
   - [Microsoft Azure](certificacoes-azure/README.md)
-    - []()
+    - [Certificação Microsoft Certified: Azure Fundamentals (AZ-900)](certificacoes-azure/azure-fundamentals-az900/README.md)
     - []()
   - [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
     - []()
