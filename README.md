@@ -12,7 +12,7 @@ O objetivo é ser agnóstico e abstrair a implantação da aplicação em um pro
 
 Focaremos em orientações práticas para implantação dos piperlines de CI / CD. Tendo em mente os seguintes tipos de Nuvem a seguir:
 
-<img src="docs/imgs/tipos_nuvem.png" alt="PDCA: Aplicar na prática o empirismo" title="Provedores Nuvem Suportes" style="width:675px;"/>
+<img src="docs/imgs/tipos_nuvem.png" alt="PDCA: Aplicar na prática o empirismo" title="Provedores Nuvem Suportes" style="width:100%; height: 100%"/>
 
 --- 
 
