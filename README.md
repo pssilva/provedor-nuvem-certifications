@@ -34,12 +34,16 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
   - Identificar os Casos de Usos [Functions as a Service (FaaS)](#STIGLER-Maddie)
 - Operacional de Trabalho [Desenvolvedor Multicloud](#STIGLER-Maddie) para cada nuvem a seguir:
   - [Amazon Web Services – AWS](certificacoes-aws/README.md)
+    - [Certificação AWS Cloud Practitioner](#)
+    - [Certificação AWS Certified DevOps Engineer – Professional](#)
   - [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
-  - [Microsoft Azure](#)
-  - [RedHat OpenShift](#)
-  - [Oracle Cloud](#)
-  - [Heroku – Plataform Cloud](#)
-  - [Spring Cloud](#)
+    - []()
+    - []()
+  - [Microsoft Azure](certificacoes-azure/README.md)
+  - [RedHat OpenShift](certificacoes-redhat-openshift/README.md)
+  - [Oracle Cloud](certificacoes-oc/README.md)
+  - [Heroku – Plataform Cloud](certificacoes-hpc/README.md)
+  - [Spring Cloud](certificacoes-sp/README.md)
 
 
 Projeto inicializado com o [`Scripts de automação próprio`]().
