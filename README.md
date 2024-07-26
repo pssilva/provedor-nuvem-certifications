@@ -10,11 +10,13 @@ Aqui buscamos responder: _**Quais são as  rotinas de trabalho de um desenvolved
 
 O objetivo é ser agnóstico e abstrair a implantação da aplicação em um provedor de nuvem! Tendo em mente que a _**aplicação não precisa saber em quais nuvens se encontra implantada**_.
 
-Seguem as orientações práticas para implantação dos piperlines de CI / CD. Tendo em mente os seguintes tipos:
+Focaremos em orientações práticas para implantação dos piperlines de CI / CD. Tendo em mente os seguintes tipos de Nuvem a seguir:
+
+<img src="docs/imgs/tipos_nuvem.png" alt="PDCA: Aplicar na prática o empirismo" title="Provedores Nuvem Suportes" style="width:675px;"/>
 
 --- 
 
-Tendo em mente que para a presente Certificação, para O Conteúdo programático identificar:
+Tendo em mente que para todas as Certificações do presente POC, focaremos no Conteúdo Programático buscando identificar:
 - Objetivo dos Tópicos, para cada tópico, explodir em Habilidades;
 - Para cada habilidade, identificar boas práticas e seus usos Empírico;
 - Identificar a forma do como é cobrado o conhecimento no exame;
