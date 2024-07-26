@@ -13,7 +13,7 @@ O objetivo é ser agnóstico e abstrair a implantação da aplicação em um pro
 
 --- 
 
-Tendo em mente que para a presente Certificação, para O Conteúdo programático identificar:
+Tendo em mente que para todas as Certificações do presente POC, focaremos no Conteúdo Programático buscando identificar:
 - Objetivo dos Tópicos, para cada tópico, explodir em Habilidades;
 - Para cada habilidade, identificar boas práticas e seus usos Empírico;
 - Identificar a forma do como é cobrado o conhecimento no exame;
@@ -21,3 +21,19 @@ Tendo em mente que para a presente Certificação, para O Conteúdo programátic
 - Elaborar estratégias (checklists) de refatoração para aplicar boas práticas em projetos legados;
 
 --- 
+
+
+## 🚀 Começando
+
+### 🔧 Instalação
+
+Para obter o presente projeto use os seguintes comandos:
+
+```bash
+mkdir -p "${HOME}/projetos"
+cd "${HOME}/projetos"
+git clone https://github.com/pssilva/provedor-nuvem-certifications.git
+cd provedor-nuvem-certifications/certificacoes-azure
+source ~/.bash_profile
+idea .
+```
