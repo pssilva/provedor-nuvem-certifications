@@ -1,6 +1,9 @@
 # Certificações Microsoft Azure (certificacoes-azure)
 
 Projeto prova de conceito - POC para aplicar os conhecimentos abstratos relacionados ao protocolo de _**Trabalho Operacional das stack de um Desenvolvedor Cloud**_ especificamente para o provedor de nuvem Microsoft Azure!
+<a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Azure-Certification-poster.pdf">
+<img src="docs/imgs/Azure-Certification-poster.svg" alt="Documentação: Mapa Conceitual Certificações Azure" title="Documentação: Mapa Conceitual Certificações Azure" style="width:100%; height: 100%"/>
+</a>
 
 ## Visão do Projeto
 
