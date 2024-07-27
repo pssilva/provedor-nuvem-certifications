@@ -1,4 +1,4 @@
-# Certificações Oracle Cloud (certificacoes-oc)
+# Certificações Oracle Cloud Infrastructure (certificacoes-oci)
 
 Projeto prova de conceito - POC para aplicar os conhecimentos abstratos relacionados ao protocolo de _**Trabalho Operacional das stack de um Desenvolvedor Cloud**_ especificamente para o provedor de nuvem Oracle Cloud!
 

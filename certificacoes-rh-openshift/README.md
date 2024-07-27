@@ -1,4 +1,4 @@
-# Certificações RedHat OpenShift (certificacoes-redhat-openshift)
+# Certificações RedHat OpenShift (certificacoes-rh-openshift)
 
 Projeto prova de conceito - POC para aplicar os conhecimentos abstratos relacionados ao protocolo de _**Trabalho Operacional das stack de um Desenvolvedor Cloud**_ especificamente para o provedor de nuvem RedHat OpenShift!
 
