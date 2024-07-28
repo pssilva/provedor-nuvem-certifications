@@ -18,4 +18,5 @@ Tendo em mente que para a presente Certificação, para O Conteúdo programátic
 - Elaborar estratégias (checklists) de refatoração para aplicar boas práticas em projetos legados;
 
 Testando script de automação!
+Testando script de automação 11!
 --- 
