@@ -17,6 +17,4 @@ Tendo em mente que para a presente Certificação, para O Conteúdo programátic
 - identificar, em projetos open-source, o uso dos conceitos na prática;
 - Elaborar estratégias (checklists) de refatoração para aplicar boas práticas em projetos legados;
 
-Testando script de automação!
-Testando script de automação 11!
 --- 
