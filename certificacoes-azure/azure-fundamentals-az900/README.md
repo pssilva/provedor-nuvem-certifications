@@ -14,8 +14,8 @@ Assumiremos que a _**aplicação não precisa saber em qual provedor de nuvem se
 
 Tendo em mente que para a presente [Certificação Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification), para O Conteúdo programático identificar:
 - Objetivo dos Tópicos, para cada tópico, explodir em Habilidades;
-- Para cada habilidade, identificar boas práticas e seus usos Empírico;
-- Identificar a forma do como é cobrado o conhecimento no exame;
+- Para cada habilidade, identificar boas práticas e seus usos Empíricos;
+- Identificar a forma do como é cobrado o conhecimento no exame (principais pegadinhas);
 - identificar, em projetos open-source, o uso dos conceitos na prática;
 - Elaborar estratégias (checklists) de refatoração para aplicar boas práticas em projetos legados;
 
