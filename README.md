@@ -50,9 +50,7 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
   - [Heroku – Plataform Cloud](certificacoes-hpc/README.md)
   - [Spring Cloud](certificacoes-sp/README.md)
 
-
 Projeto inicializado com o [`Scripts de automação próprio`]().
-
 
 ## 🚀 Começando
 
@@ -75,9 +73,45 @@ Depois de baixar o projeto: De que coisas precisamos para atuar no projeto `prov
 
 Para isso, use os comandos do script de automação:
 
+
 ```bash
-[TRABALHO EM PROGRESSO]
+
+export ARTIFACT_ID="provedor-nuvem-certifications"
+export TOOL_NAME="ProvedorNuvemCertificationScriptsUteis"
+export SCRIPT_PATH="${HOME}/projetos${ARTIFACT_ID}/scripts"
+export AUTOMATION_PATH="${SCRIPT_PATH}/src/main/automation"
+export TOOL_PATH="${AUTOMATION_PATH}/${TOOL_NAME}"
+
+source "${TOOL_PATH}/ProvedorNuvemCertificationScriptsUteis_main.sh"
+
+ProvedorNuvemCertificationScriptsUteis.installAllTools
+ProvedorNuvemCertificationScriptsUteis.makeAllTools
+
 ```
+
+#### 📋 Criar Projetos de Certificação
+
+Depois de baixar o projeto: Qual é o protocolo para gerar os projetos de Certificação modelo?
+
+Para isso, use siga os passos:
+
+  1. Adicionar uma linha no arquivo CSV: Artefato [`arquivo_certificacoes_parametors.csv`](scripts/src/main/automation/ProvedorNuvemCertificationScriptsUteis/datas/arquivo_certificacoes_parametors.csv)
+  2. Usar o comando do scritp de Automação: 
+
+      ```bash
+      export AUTOMATION_PATH="${HOME}/projetos/provedor-nuvem-certifications/scripts/src/main/automation"
+      export DATAS_PATH="${AUTOMATION_PATH}/ProvedorNuvemCertificationScriptsUteis/datas"
+
+      export WORK_PATH="${HOME}/projetos/provedor-nuvem-certifications"
+      export INPUT_FILE_CSV="${DATAS_PATH}/arquivo_certificacoes_parametors.csv"
+
+      ProvedorNuvemCertificationScriptsUteis.processamentoCSV "${WORK_PATH}" "${INPUT_FILE_CSV}"
+
+      ```
+
+_**NOTA**_: Ou pode apenas usar o scritp de teste: Artefato [`arquivo_certificacoes_parametors.csv`](scripts/src/test/automation/ProvedorNuvemCertificationScriptsUteis/ProvedorNuvemCertificationScriptsUteis_processamentoCSV_test.sh)
+
+---
 
 ## 🔩 Débitos Técnicos
 
@@ -88,6 +122,18 @@ Aqui temos uma lista do que idenficamos com status de pendente:
 Segue abaixo (não se limita) os objetivos do presente projeto:
 
 - [X] ~~Formatando documentação README.md~~
+- [ ] Scripts de Automação:
+  - [X] ~~Altoritmo de Processamento de Arquivo CSV: `ProvedorNuvemCertificationScriptsUteis.processamentoCSV`~~
+  - [X] ~~Geração de Projeto de Certificação Específica de um Arquivo CSV: `ProvedorNuvemCertificationScriptsUteis.processamentoCSV`~~
+  - [ ] Configuração do Ambiente de Desenvolvimento
+  - [ ] instalação SDK de Cada Procedor de Nuvem:
+    - [ ] instalação SDK [Amazon Web Services – AWS](certificacoes-aws/README.md)
+    - [ ] instalação SDK [Microsoft Azure](certificacoes-azure/README.md)
+    - [ ] instalação SDK [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
+    - [ ] instalação SDK [RedHat OpenShift](certificacoes-redhat-openshift/README.md)
+    - [ ] instalação SDK [Oracle Cloud](certificacoes-oc/README)
+    - [ ] instalação SDK [Heroku – Plataform Cloud](certificacoes-hpc/README.md)
+    - [ ] instalação SDK [Spring Cloud](certificacoes-sp/README.md)
 
 ### Atividades - DevOps
 
