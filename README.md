@@ -76,7 +76,22 @@ Depois de baixar o projeto: De que coisas precisamos para atuar no projeto `prov
 Para isso, use os comandos do script de automação:
 
 ```bash
+<<<<<<< Updated upstream
 [TRABALHO EM PROGRESSO]
+=======
+
+export ARTIFACT_ID="provedor-nuvem-certifications"
+export TOOL_NAME="ProvedorNuvemCertificationScriptsUteis"
+export SCRIPT_PATH="${HOME}/projetos/${ARTIFACT_ID}/scripts"
+export AUTOMATION_PATH="${SCRIPT_PATH}/src/main/automation"
+export TOOL_PATH="${AUTOMATION_PATH}/${TOOL_NAME}"
+
+source "${TOOL_PATH}/ProvedorNuvemCertificationScriptsUteis_main.sh"
+
+ProvedorNuvemCertificationScriptsUteis.installAllTools
+ProvedorNuvemCertificationScriptsUteis.makeAllTools
+
+>>>>>>> Stashed changes
 ```
 
 ## 🔩 Débitos Técnicos
