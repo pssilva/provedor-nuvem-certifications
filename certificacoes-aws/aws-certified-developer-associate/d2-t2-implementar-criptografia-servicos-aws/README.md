@@ -24,5 +24,9 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 ### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
 
-- [ ] Item de um tópico específico XPTO aqui
-- [ ] Item de um tópico específico XPTO 2 aqui
+- [ ] Domínio de Conteúdo 2: Segurança
+  - [ ] Tarefa 2: Implementar Criptografia Utilizando Serviços AWS
+    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Xpto

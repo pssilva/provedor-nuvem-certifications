@@ -24,5 +24,7 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 ### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
 
-- [ ] Item de um tópico específico XPTO aqui
-- [ ] Item de um tópico específico XPTO 2 aqui
+- [ ] Domínio de Conteúdo 4: Solução de Problemas e Otimização
+  - [ ] Tarefa 1: Auxiliar na análise da causa raiz
+  - [ ] Tarefa 2: Instrumentar o código para observabilidade
+  - [ ] Tarefa 3: Otimizar aplicativos usando serviços e recursos da AWS
