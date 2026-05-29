@@ -1,5 +1,5 @@
 
-# Tarefa 3: Otimizar aplicativos usando serviços e recursos da AWS (otimizar-aplicacao-servicos-aws)
+# Tarefa 3: Utilizar Armazenamentos de Dados no Desenvolvimento de Aplicações (d1-t3-utilizar-armazenamentos-dados)
 
 
 ### Evidências de Estudos
@@ -7,7 +7,7 @@
 Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu.be/CN_SCpGuJ_w?si=cjZukoffz_HNxy7y), onde para cada item dos Tópicos da Certificação registramos:
 
 - Aúdio Auto explicativo:
-  - De cada conceito obstrato
+  - De cada conceito abstrato
   - Explicar uma questão específica do Exame;
 - Ativação do conhecimento: escrever Manualmente (de 5x a 12x) as definições dos conceitos de memória;
 
