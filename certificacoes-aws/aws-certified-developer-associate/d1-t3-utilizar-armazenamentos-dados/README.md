@@ -21,8 +21,11 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
 
-
 ### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
 
-- [ ] Item de um tópico específico XPTO aqui
-- [ ] Item de um tópico específico XPTO 2 aqui
+- [ ] Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS
+  - [ ] Tarefa 3: Utilizar Armazenamentos de Dados no Desenvolvimento de Aplicações
+    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Xpto
