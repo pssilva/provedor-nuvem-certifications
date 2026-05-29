@@ -1,5 +1,5 @@
 
-# Tarefa 3: Otimizar aplicativos usando serviços e recursos da AWS (otimizar-aplicacao-servicos-aws)
+# Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS (d1-desenvolvimento-servicos-aws)
 
 
 ### Evidências de Estudos
@@ -14,7 +14,7 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 #### Evidência: {{TITULO_EVIDENCIA}}
 
-<img src="certificacoes-aws/docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
+<img src="docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
 
 
 ## Tópicos da Certificação
