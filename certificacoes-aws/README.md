@@ -31,7 +31,7 @@ Procuro evidência as proficiências nos domínios, tarefas, sua respectivas hab
 - [Amazon Web Services – AWS](certificacoes-aws/README.md)
   - [Certificação AWS Developer Associate](certificacoes-aws/aws-certified-developer-associate/README.md)
   - [Certificação AWS Certified DevOps Engineer – Professional](certificacoes-aws/aws-aws-devops-engineer-professional/README.md)
-  - [Certificação AWS Certified Solutions Architect – Associate](certificacoes-aws/aws-solution-arch-associate-certification/README.md)
+  - [Certificação AWS Certified Solutions Architect – Associate](certificacoes-aws/aws-certified-solutions-architect-associate/README.md)
   - [Certificação AWS Cloud Practitioner](certificacoes-aws/aws-cloud-practitioner-certification/README.md)
 
 
