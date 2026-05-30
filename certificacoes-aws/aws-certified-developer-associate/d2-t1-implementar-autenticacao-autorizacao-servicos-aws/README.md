@@ -24,7 +24,11 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 2: Segurança
     - [ ] Tarefa 1: Implementar autenticação e/ou autorização para aplicações e serviços AWS
-        - [ ] Habilidade (Skill): Xpto
-        - [ ] Habilidade (Skill): Xpto
-        - [ ] Habilidade (Skill): Xpto
-        - [ ] Habilidade (Skill): Xpto
+      - [ ] Habilidade: Usar um provedor de identidade para implementar acesso federado (por exemplo, Amazon Cognito, IAM)
+      - [ ] Habilidade: Proteger aplicativos usando tokens de portador
+      - [ ] Habilidade: Configurar acesso programático à AWS
+      - [ ] Habilidade: Fazer chamadas autenticadas para serviços da AWS
+      - [ ] Habilidade: Assumir uma função do IAM
+      - [ ] Habilidade: Definir permissões para entidades do IAM
+      - [ ] Habilidade: Implementar autorização em nível de aplicativo para controle de acesso granular
+      - [ ] Habilidade: Lidar com autenticação entre serviços em arquiteturas de microsserviços

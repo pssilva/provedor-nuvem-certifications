@@ -26,7 +26,10 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 3: Implantação
   - [ ] Tarefa 3: Automatizar Testes de Implantação
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Criar eventos de teste de aplicativos (por exemplo, payloads JSON para testar recursos do AWS Lambda, API Gateway e AWS SAM)
+    - [ ] Habilidade (Skill): Implantar recursos de API em vários ambientes
+    - [ ] Habilidade (Skill): Criar ambientes de aplicativos que usem versões aprovadas para testes de integração (por exemplo, aliases do Lambda, tags de imagem de contêiner, branches do AWS Amplify, ambientes do AWS Copilot)
+    - [ ] Habilidade (Skill): Implementar e implantar modelos de infraestrutura como código (IaC) (por exemplo, modelos do AWS SAM, modelos do AWS CloudFormation)
+    - [ ] Habilidade (Skill): Gerenciar ambientes em serviços individuais da AWS (por exemplo, diferenciar entre desenvolvimento, teste e produção no API Gateway)
+    - [ ] Habilidade (Skill): Usar o Amazon Q Developer para gerar testes automatizados
+

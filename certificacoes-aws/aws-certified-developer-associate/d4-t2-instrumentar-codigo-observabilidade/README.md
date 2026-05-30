@@ -1,4 +1,3 @@
-
 # Tarefa 2: Instrumentar o código para observabilidade (d4-t2-instrumentar-codigo-observabilidade)
 
 
@@ -26,7 +25,11 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 4: Solução de Problemas e Otimização
   - [ ] Tarefa 2: Instrumentar o código para observabilidade
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Descrever as diferenças entre registro (logging), monitoramento (monitoring) e observabilidade (observability)
+    - [ ] Habilidade (Skill): Implementar uma estratégia de registro (logging) eficaz para registrar o comportamento e o estado do aplicativo
+    - [ ] Habilidade (Skill): Implementar código que emita métricas personalizadas
+    - [ ] Habilidade (Skill): Adicionar anotações para serviços de rastreamento
+    - [ ] Habilidade (Skill): Implementar alertas de notificação para ações específicas (por exemplo, notificações sobre limites de cota ou conclusões de implantação)
+    - [ ] Habilidade (Skill): Implementar rastreamento usando serviços e ferramentas da AWS
+    - [ ] Habilidade (Skill): Implementar registro estruturado (logging) para eventos de aplicativos e ações do usuário
+    - [ ] Habilidade (Skill): Configurar verificações de integridade e sondagens de prontidão do aplicativo

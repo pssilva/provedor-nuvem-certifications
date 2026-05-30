@@ -155,7 +155,7 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
 
 Tendo em mente que sempre buscamos melhorar o protocolo de trabalho operacinal do dia a dia usando empirismo (colocar realmente em prática os conheicmentos abstratos)
 
-NOTA: Não se trata de ficar ditando regras no trabalho da equipe, mas sim melhorar o [meu operacional pessoal de trabalho](#da-analise-exploratoria) e com isso agregar valor melhorando a perfomance:
+NOTA: Não se trata de ditar regras no trabalho da equipe / time, mas sim melhorar o [meu operacional pessoal de trabalho](#da-analise-exploratoria) e com isso agregar valor melhorando a perfomance:
 
 <img src="docs/imgs/pdca.png" alt="PDCA: Aplicar na prática o empirismo" title="PDCA" style="width:475px;"/>
 
@@ -170,6 +170,23 @@ Seque abaixo as referências bibliográficas usadas no presente projeto:
 
 ---
 
+<p align="justify">
+[<a id="SK-Singh">SK Singh. AWS Certified Developer - Associate Exam Prep and Study Guide: Comprehensive Coverage of all Exam Domains | 195 Practice Questions with Answer Explanations ... Exam Tips & Caution Alerts</a>]. (English Edition) United States of America: Editora KnoDAX, 17 outubro 2024. Copyright © 2024 KnoDAX Número de páginas: 587 páginas . (ISBN-13: 9781234567890 / ISBN-10: 1477123456) . Disponível em: < <a href="https://a.co/d/0d8N0VqI">https://a.co/d/0d8N0VqI</a> >. Acesso em: 29 mai. 2026.
+</p>
+
+---
+
+<p align="justify">
+[<a id="GANESAN-Kamesh">GANESAN, Kamesh. Aws Certified Developer Associate All-In-One Exam Guide (Exam Dva-C01)</a>]. Cidade da publicação: McGraw-Hill Companies, 3 dezembro 2020. Número de páginas: 752 páginas. (ISBN-10: 1260460177 / ISBN-13: 978-1260460179). . Disponível em: < <a href="https://a.co/d/05RPqnHq">https://a.co/d/05RPqnHq</a> >. Acesso em: 29 mai. 2026.
+</p>
+
+---
+
+<p align="justify">
+[<a id="PIPER-Ben-CLINTON-David">PIPER, Ben; CLINTON, David. AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions: Associate (Saa-C03) Exam</a>]. 4th ed. Cidade da publicação: Sybex, 4 outubro 2022. 480 páginas. (ISBN-10: 1119982626 / ISBN-13: 978-1119982623). . Disponível em: < <a href="https://a.co/d/08gA6ZYe">https://a.co/d/08gA6ZYe</a> >. Acesso em: 30 mai. 2026.
+</p>
+
+---
 <p align="justify">
 [<a id="FOWLER-Martin">FOWLER, Martin , with contributions by Kent Beck. Refactoring: Improving the Design of Existing Code</a>]. Second Edition 2 Ed. Editora: Addison-Wesley Professional; 2nd ed. edição (19 novembro 2018) Cidade da publicação: Copyright © 2019 Pearson Education, Inc. 448 páginas. (Nome da série e/ou coleção, ISBN-13: 978-0-13-475759-9, ISBN-10: 0-13-475759-9). Disponível em: < <a href="https://a.co/d/0hvdoivW">https://a.co/d/8Yd4ysB</a> >. Acesso em: 18 jul. 2024.
 </p>

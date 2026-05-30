@@ -26,7 +26,10 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 2: Segurança
   - [ ] Tarefa 2: Implementar Criptografia Utilizando Serviços AWS
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Definir criptografia em repouso e em trânsito
+    - [ ] Habilidade (Skill): Descrever o gerenciamento de certificados (por exemplo, AWS Private CA)
+    - [ ] Habilidade (Skill): Descrever as diferenças entre criptografia do lado do cliente e criptografia do lado do servidor
+    - [ ] Habilidade (Skill): Usar chaves de criptografia para criptografar ou descriptografar dados
+    - [ ] Habilidade (Skill): Gerar certificados e chaves SSH para fins de desenvolvimento
+    - [ ] Habilidade (Skill): Usar criptografia entre limites de contas
+    - [ ] Habilidade (Skill): Habilitar e desabilitar a rotação de chaves

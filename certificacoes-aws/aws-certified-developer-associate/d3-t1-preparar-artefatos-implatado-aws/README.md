@@ -1,4 +1,3 @@
-
 # Tarefa 1: Preparar Artefatos da Aplicação para Serem Implantado na AWS (d3-t1-preparar-artefatos-implatado-aws)
 
 
@@ -26,7 +25,8 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 3: Implantação
   - [ ] Tarefa 1: Preparar Artefatos da Aplicação para Serem Implantado na AWS
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Gerenciar as dependências do módulo de código (por exemplo, variáveis de ambiente, arquivos de configuração, imagens de contêiner) dentro do pacote
+    - [ ] Habilidade (Skill): Organizar arquivos e uma estrutura de diretórios para a implantação do aplicativo
+    - [ ] Habilidade (Skill): Usar repositórios de código em ambientes de implantação
+    - [ ] Habilidade (Skill): Aplicar os requisitos de recursos do aplicativo (por exemplo, memória, núcleos)
+    - [ ] Habilidade (Skill): Preparar configurações de aplicativos para ambientes específicos (por exemplo, usando o AWS AppConfig)

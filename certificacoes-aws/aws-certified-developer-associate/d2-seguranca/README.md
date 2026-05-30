@@ -1,6 +1,14 @@
 
 # Domínio de Conteúdo 2: Segurança (d2-seguranca)
 
+Tendo em mente que para todas as Certificações do presente PoC, focaremos no Conteúdo Programático buscando identificar:
+- Objetivo dos Domínios, para cada domínio, explodir em Tarefas (Tasks);
+- Para cada Tarefa (Task), identificar as Habilidades (Skills);
+- Para cada Habilidade (Skill), identificar boas práticas e usos Empíricos;
+- Identificar a forma do como é cobrado o conhecimento no exame (principais pegadinhas);
+- Identificar, em projetos open-source, o uso dos conceitos, na prática;
+- Elabora os planos de ações e os seus respetivos checklists operaiconais de refatoração;
+- Aplicar boas práticas em projetos legados;
 
 ### Evidências de Estudos
 

@@ -1,6 +1,14 @@
 
-# Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS (d1-desenvolvimento-servicos-aws)
+# Certificações AWS (certificacaões-aws)
 
+Tendo em mente que para todas as Certificações do presente PoC, focaremos no Conteúdo Programático buscando identificar:
+- Objetivo dos Domínios, para cada domínio, explodir em Tarefas (Tasks);
+- Para cada Tarefa (Task), identificar as Habilidades (Skills);
+- Para cada Habilidade (Skill), identificar boas práticas e usos Empíricos;
+- Identificar a forma do como é cobrado o conhecimento no exame (principais pegadinhas);
+- Identificar, em projetos open-source, o uso dos conceitos, na prática;
+- Elabora os planos de ações e os seus respetivos checklists operaiconais de refatoração;
+- Aplicar boas práticas em projetos legados;
 
 ### Evidências de Estudos
 
@@ -16,31 +24,33 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 <img src="docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
 
+## Proficiências
 
-## Tópicos da Certificação
+Procuro evidência as proficiências nos domínios, tarefas, sua respectivas habilidades técnicas descritas nas seguintes certificações:
 
-Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
+- [Amazon Web Services – AWS](certificacoes-aws/README.md)
+  - [Certificação AWS Developer Associate](certificacoes-aws/aws-certified-developer-associate/README.md)
+  - [Certificação AWS Certified DevOps Engineer – Professional](certificacoes-aws/aws-aws-devops-engineer-professional/README.md)
+  - [Certificação AWS Certified Solutions Architect – Associate](certificacoes-aws/aws-solution-arch-associate-certification/README.md)
+  - [Certificação AWS Cloud Practitioner](certificacoes-aws/aws-cloud-practitioner-certification/README.md)
 
 
-### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
+## Referências Usadas
 
-- [ ] Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS
-  - [ ] Tarefa 1: Desenvolver código para aplicações hospedadas na AWS
-  - [ ] Tarefa 2: Desenvolver código para AWS Lambda
-  - [ ] Tarefa 3: Utilizar Armazenamentos de Dados no Desenvolvimento de Aplicações
+Seque abaixo as referências bibliográficas usadas no presente projeto:
 
-- [ ] Domínio de Conteúdo 2: Segurança
-  - [ ] Tarefa 1: Implementar autenticação e/ou autorização para aplicações e serviços AWS
-  - [ ] Tarefa 2: Implementar Criptografia Utilizando Serviços AWS
-  - [ ] Tarefa 3: Gerenciar dados Sensíveis no Código da Aplicação
+### Livros
 
-- [ ] Domínio de Conteúdo 3: Implantação
-  - [ ] Tarefa 1: Preparar Artefatos da Aplicação para Serem Implantado na AWS
-  - [ ] Tarefa 2: Testar Aplicativos em Ambientes de Desenvolvimento
-  - [ ] Tarefa 3: Automatizar Testes de Implantação
-  - [ ] Tarefa 4: Implantar código usando os serviços de Integração Contínua e Entrega Contínua (CI/CD) da AWS
+---
 
-- [ ] Domínio de Conteúdo 4: Solução de Problemas e Otimização
-  - [ ] Tarefa 1: Auxiliar na análise da causa raiz
-  - [ ] Tarefa 2: Instrumentar o código para observabilidade
-  - [ ] Tarefa 3: Otimizar aplicativos usando serviços e recursos da AWS
+<p align="justify">
+[<a id="SK-Singh">SK Singh. AWS Certified Developer - Associate Exam Prep and Study Guide: Comprehensive Coverage of all Exam Domains | 195 Practice Questions with Answer Explanations ... Exam Tips & Caution Alerts</a>]. (English Edition) United States of America: Editora KnoDAX, 17 outubro 2024. Copyright © 2024 KnoDAX Número de páginas: 587 páginas . (ISBN-13: 9781234567890 / ISBN-10: 1477123456) . Disponível em: < <a href="https://a.co/d/0d8N0VqI">https://a.co/d/0d8N0VqI</a> >. Acesso em: 29 mai. 2026.
+</p>
+
+---
+
+<p align="justify">
+[<a id="GANESAN-Kamesh">GANESAN, Kamesh. Aws Certified Developer Associate All-In-One Exam Guide (Exam Dva-C01)</a>]. Cidade da publicação: McGraw-Hill Companies, 3 dezembro 2020. Número de páginas: 752 páginas. (ISBN-10: 1260460177 / ISBN-13: 978-1260460179). . Disponível em: < <a href="https://a.co/d/05RPqnHq">https://a.co/d/05RPqnHq</a> >. Acesso em: 29 mai. 2026.
+</p>
+
+---

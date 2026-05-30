@@ -1,6 +1,13 @@
+# AWS Certificado Desenvolvedor Associate (aws-certified-developer-associate)
 
-# Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS (d1-desenvolvimento-servicos-aws)
-
+Tendo em mente que para todas as Certificações do presente PoC, focaremos no Conteúdo Programático buscando identificar:
+- Objetivo dos Domínios, para cada domínio, explodir em Tarefas (Tasks);
+- Para cada Tarefa (Task), identificar as Habilidades (Skills);
+- Para cada Habilidade (Skill), identificar boas práticas e usos Empíricos;
+- Identificar a forma do como é cobrado o conhecimento no exame (principais pegadinhas);
+- Identificar, em projetos open-source, o uso dos conceitos, na prática;
+- Elabora os planos de ações e os seus respetivos checklists operaiconais de refatoração;
+- Aplicar boas práticas em projetos legados;
 
 ### Evidências de Estudos
 
@@ -16,13 +23,29 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 <img src="../../docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
 
-
 ## Tópicos da Certificação
 
-Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
-
+Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1).
 
 ### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
 
-- [ ] Item de um tópico específico XPTO aqui
-- [ ] Item de um tópico específico XPTO 2 aqui
+- [ ] Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS
+  - [ ] Tarefa 1: Desenvolver código para aplicações hospedadas na AWS
+  - [ ] Tarefa 2: Desenvolver código para AWS Lambda
+  - [ ] Tarefa 3: Utilizar Armazenamentos de Dados no Desenvolvimento de Aplicações
+
+- [ ] Domínio de Conteúdo 2: Segurança
+  - [ ] Tarefa 1: Implementar autenticação e/ou autorização para aplicações e serviços AWS
+  - [ ] Tarefa 2: Implementar Criptografia Utilizando Serviços AWS
+  - [ ] Tarefa 3: Gerenciar dados Sensíveis no Código da Aplicação
+
+- [ ] Domínio de Conteúdo 3: Implantação
+  - [ ] Tarefa 1: Preparar Artefatos da Aplicação para Serem Implantado na AWS
+  - [ ] Tarefa 2: Testar Aplicativos em Ambientes de Desenvolvimento
+  - [ ] Tarefa 3: Automatizar Testes de Implantação
+  - [ ] Tarefa 4: Implantar código usando os serviços de Integração Contínua e Entrega Contínua (CI/CD) da AWS
+
+- [ ] Domínio de Conteúdo 4: Solução de Problemas e Otimização
+  - [ ] Tarefa 1: Auxiliar na análise da causa raiz
+  - [ ] Tarefa 2: Instrumentar o código para observabilidade
+  - [ ] Tarefa 3: Otimizar aplicativos usando serviços e recursos da AWS
