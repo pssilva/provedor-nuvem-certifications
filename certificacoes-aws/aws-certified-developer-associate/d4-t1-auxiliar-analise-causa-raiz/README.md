@@ -1,4 +1,3 @@
-
 # Tarefa 1: Auxiliar na análise da causa raiz (d4-t1-auxiliar-analise-causa-raiz)
 
 
@@ -25,7 +24,11 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 4: Solução de Problemas e Otimização
   - [ ] Tarefa 1: Auxiliar na análise da causa raiz
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Depurar código para identificar defeitos
+    - [ ] Habilidade (Skill): Interpretar métricas, logs e rastreamentos de aplicativos
+    - [ ] Habilidade (Skill): Consultar logs para encontrar dados relevantes
+    - [ ] Habilidade (Skill): Implementar métricas personalizadas (por exemplo, formato de métrica incorporada do Amazon CloudWatch [EMF])
+    - [ ] Habilidade (Skill): Analisar a integridade do aplicativo usando painéis e insights
+    - [ ] Habilidade (Skill): Solucionar problemas de falhas de implantação usando logs de saída do serviço
+    - [ ] Habilidade (Skill): Depurar problemas de integração de serviços em aplicativos
+

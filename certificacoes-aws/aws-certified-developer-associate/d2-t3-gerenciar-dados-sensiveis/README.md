@@ -25,7 +25,9 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 2: Segurança
   - [ ] Tarefa 3: Gerenciar dados Sensíveis no Código da Aplicação
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Descrever a classificação de dados (por exemplo, informações de identificação pessoal [PII], informações de saúde protegidas [PHI])
+    - [ ] Habilidade (Skill): Criptografar variáveis de ambiente que contenham dados sensíveis
+    - [ ] Habilidade (Skill): Usar serviços de gerenciamento de segredos para proteger dados sensíveis
+    - [ ] Habilidade (Skill): Higienizar dados sensíveis
+    - [ ] Habilidade (Skill): Implementar mascaramento e higienização de dados em nível de aplicação
+    - [ ] Habilidade (Skill): Implementar padrões de acesso a dados para aplicações multi-inquilino

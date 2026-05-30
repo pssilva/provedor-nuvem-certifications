@@ -26,7 +26,10 @@ Tomando como base os tópicos da Certificação [Certificação AWS Certified De
 
 - [ ] Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS
   - [ ] Tarefa 2: Desenvolver código para AWS Lambda
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
-    - [ ] Habilidade (Skill): Xpto
+    - [ ] Habilidade (Skill): Descrever o acesso a recursos privados em VPCs a partir do código Lambda
+    - [ ] Habilidade (Skill): Configurar funções Lambda definindo variáveis de ambiente e parâmetros (por exemplo, memória, concorrência, tempo limite, tempo de execução, manipulador, camadas, extensões, gatilhos, destinos)
+    - [ ] Habilidade (Skill): Lidar com o ciclo de vida de eventos e erros usando código (por exemplo, Destinos Lambda, filas de mensagens não entregues)
+    - [ ] Habilidade (Skill): Escrever e executar código de teste usando serviços e ferramentas da AWS
+    - [ ] Habilidade (Skill): Integrar funções Lambda com serviços da AWS
+    - [ ] Habilidade (Skill): Otimizar funções Lambda para obter desempenho ideal
+    - [ ] Habilidade (Skill): Usar funções Lambda para processar e transformar dados em tempo quase real
