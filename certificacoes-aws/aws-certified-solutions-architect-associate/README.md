@@ -75,7 +75,7 @@ Para obter o presente projeto use os seguintes comandos:
 ```bash
 mkdir -p "${HOME}/projetos"
 export ARTIFAC_ID="provedor-nuvem-cetifications"
-export CERTIFICATION_ARTIFAC_ID="aws-solution-arch-associate-certification"
+export CERTIFICATION_ARTIFAC_ID="aws-certified-solutions-architect-associate"
 cd "${HOME}/projetos"
 git clone https://github.com/pssilva/provedor-nuvem-cetifications.git
 cd "${ARTIFAC_ID}/${CERTIFICATION_ARTIFAC_ID}"
@@ -85,7 +85,7 @@ idea .
 
 #### 📋 Pré-requisitos
 
-Depois de baixar o projeto: De que coisas precisamos para atuar no projeto `provedor-nuvem-cetifications/aws-solution-arch-associate-certification` e executá-lo?
+Depois de baixar o projeto: De que coisas precisamos para atuar no projeto `provedor-nuvem-cetifications/aws-certified-solutions-architect-associate` e executá-lo?
 
 Para isso, use os comandos do script de automação:
 

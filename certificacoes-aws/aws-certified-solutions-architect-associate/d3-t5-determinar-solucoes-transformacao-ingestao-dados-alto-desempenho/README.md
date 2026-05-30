@@ -18,7 +18,7 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 ## Tópicos da Certificação
 
-Tomando como base os tópicos da Certificação [AWS Certified Solutions Architect - Associate (SAA-C03) (aws-solution-arch-associate-certification)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
+Tomando como base os tópicos da Certificação [AWS Certified Solutions Architect - Associate (SAA-C03) (aws-certified-solutions-architect-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
 
 
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
