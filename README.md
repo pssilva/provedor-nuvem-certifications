@@ -37,9 +37,9 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
 - Operacional de Trabalho [Desenvolvedor Multicloud](#STIGLER-Maddie) para cada nuvem a seguir:
   - [Amazon Web Services – AWS](certificacoes-aws/README.md)
     - [Certificação AWS Developer Associate](certificacoes-aws/aws-certified-developer-associate/README.md)
-    - [Certificação AWS Cloud Practitioner](certificacoes-aws/aws-cloud-practitioner-certification/README.md)
     - [Certificação AWS Certified DevOps Engineer – Professional](certificacoes-aws/aws-aws-devops-engineer-professional/README.md)
-    - [Certificação AWS Certified Solutions Architect – Associate](certificacoes-aws/aws-solution-arch-associate-certification/README.md)
+    - [Certificação AWS Certified Solutions Architect – Associate](certificacoes-aws/aws-certified-solutions-architect-associate/README.md)
+    - [Certificação AWS Cloud Practitioner](certificacoes-aws/aws-cloud-practitioner-certification/README.md)
   - [Microsoft Azure](certificacoes-azure/README.md)
     - [Certificação Microsoft Certified: Azure Fundamentals (AZ-900)](certificacoes-azure/azure-fundamentals-az900/README.md)
     - []()
@@ -127,7 +127,7 @@ Segue abaixo (não se limita) os objetivos do presente projeto:
   - [X] ~~Altoritmo de Processamento de Arquivo CSV: `ProvedorNuvemCertificationScriptsUteis.processamentoCSV`~~
   - [X] ~~Geração de Projeto de Certificação Específica de um Arquivo CSV: `ProvedorNuvemCertificationScriptsUteis.processamentoCSV`~~
   - [ ] Configuração do Ambiente de Desenvolvimento
-  - [ ] instalação SDK de Cada Procedor de Nuvem:
+  - [ ] instalação SDK de Cada Provedor de Nuvem:
     - [ ] instalação SDK [Amazon Web Services – AWS](certificacoes-aws/README.md)
     - [ ] instalação SDK [Microsoft Azure](certificacoes-azure/README.md)
     - [ ] instalação SDK [Google Cloud Platform – GCP](certificacoes-gcp/README.md)
