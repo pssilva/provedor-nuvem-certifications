@@ -12,7 +12,7 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 #### Evidência: {{TITULO_EVIDENCIA}}
 
-<img src="certificacoes-aws/docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
+<img src="../../docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
 
 
 ## Tópicos da Certificação
