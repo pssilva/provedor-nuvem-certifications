@@ -25,4 +25,19 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 4: Criação de arquiteturas com custo otimizado
   - [ ] Tarefa 3: Projetar soluções de banco de dados econômicas
-    - [ ] Habilidade: Titulo
+    - Conhecimento sobre:
+      - [ ] Recursos do serviço de gerenciamento de custos da AWS (por exemplo, tags de alocação de custos, cobrança de várias contas)
+      - [ ] Ferramentas de gerenciamento de custos da AWS com casos de uso apropriados (por exemplo, AWS Cost Explorer, AWS Budgets, Relatórios de custo e uso da AWS)
+      - [ ] Estratégias de armazenamento em cache
+      - [ ] Políticas de retenção de dados
+      - [ ] Planejamento da capacidade do banco de dados (por exemplo, unidades de capacidade)
+      - [ ] Proxies e conexões de banco de dados
+      - [ ] Mecanismos de banco de dados com casos de uso apropriados (por exemplo, migrações homogêneas e heterogêneas)
+      - [ ] Replicação de banco de dados (por exemplo, réplicas de leitura)
+      - [ ] Tipos e serviços de banco de dados (por exemplo, relacional em comparação com não relacional, Amazon Aurora, Amazon DynamoDB)
+    - Habilidades em:
+      - [ ] Projetar políticas de backup e retenção apropriadas (por exemplo, frequência de snapshots)
+      - [ ] Determinar um mecanismo de banco de dados apropriado (por exemplo, MySQL em comparação com o PostgreSQL)
+      - [ ] Determinar serviços de banco de dados da AWS econômicos com casos de uso apropriados (por exemplo, DynamoDB em comparação com o Amazon RDS, sem servidor)
+      - [ ] Determinar tipos de banco de dados da AWS econômicos (por exemplo, formato de série temporal, formato colunar)
+      - [ ] Migrar esquemas e dados de banco de dados para diferentes locais e/ou diferentes mecanismos de banco de dados

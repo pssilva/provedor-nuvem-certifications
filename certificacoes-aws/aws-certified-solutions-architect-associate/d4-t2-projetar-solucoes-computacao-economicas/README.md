@@ -25,4 +25,21 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 4: Criação de arquiteturas com custo otimizado
   - [ ] Tarefa 2: Projetar soluções de computação econômicas
-    - [ ] Habilidade 1: Titulo
+    - Conhecimento sobre:
+      - [ ] Recursos do serviço de gerenciamento de custos da AWS (por exemplo, tags de alocação de custos, cobrança de várias contas)
+      - [ ] Ferramentas de gerenciamento de custos da AWS com casos de uso apropriados (por exemplo, AWS Cost Explorer, AWS Budgets, Relatórios de custo e uso da AWS)
+      - [ ] Infraestrutura global da AWS (por exemplo, Zonas de Disponibilidade, Regiões AWS)
+      - [ ] Opções de compra da AWS (por exemplo, instâncias spot, instâncias reservadas, Savings Plans)
+      - [ ] Estratégias de computação distribuída (por exemplo, processamento de borda)
+      - [ ] Opções de computação híbrida (por exemplo, AWS Outposts)
+      - [ ] Famílias, tamanhos e tipos de instâncias (por exemplo, otimizadas para memória, otimizadas para computação, virtualização)
+      - [ ] Otimização da utilização da computação (por exemplo, contêineres, computação sem servidor, microsserviços)
+      - [ ] Estratégias de scaling (por exemplo, auto scaling, hibernação)
+    - Habilidades em:
+      - [ ] Determinar uma estratégia de balanceador de carga apropriada (por exemplo, Application Load
+      - [ ] Balancer [camada 7] em comparação com o Network Load Balancer [camada 4] em comparação com o Gateway Load Balancer)
+      - [ ] Determinar métodos e estratégias de scaling apropriados para workloads elásticas (por exemplo, horizontal em comparação com vertical, hibernação do EC2)
+      - [ ] Determinar serviços computacionais da AWS econômicos com casos de uso apropriados (por exemplo, AWS Lambda, Amazon EC2, AWS Fargate)
+      - [ ] Determinar a disponibilidade necessária para diferentes classes de cargas de trabalho (por exemplo, workloads de produção e de não produção)
+      - [ ] Escolher a família de instâncias apropriada para uma workload
+      - [ ] Escolher o tamanho de instância apropriado para uma workload

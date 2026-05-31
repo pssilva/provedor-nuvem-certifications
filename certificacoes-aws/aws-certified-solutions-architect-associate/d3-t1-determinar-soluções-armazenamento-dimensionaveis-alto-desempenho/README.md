@@ -22,9 +22,11 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 3: Criação de arquiteturas de alto desempenho
-    - [ ] Tarefa 1: Determinar soluções de armazenamento dimensionáveis e/ou de alto desempenho
-    - [ ] Tarefa 2: Projetar soluções de computação elásticas e de alto desempenho
-    - [ ] Tarefa 3: Determinar soluções de banco de dados de alto desempenho
-    - [ ] Tarefa 4: Determinar arquiteturas de rede dimensionáveis e/ou de alto desempenho
-    - [ ] Tarefa 5: Determinar soluções de transformação e ingestão de dados de alto desempenho
-
+  - [ ] Tarefa 1: Determinar soluções de armazenamento dimensionáveis e/ou de alto desempenho
+    - Conhecimento sobre:
+      - [ ] Soluções de armazenamento híbrido para atender aos requisitos empresariais
+      - [ ] Serviços de armazenamento com casos de uso apropriados (por exemplo, Amazon S3, Amazon EFS, Amazon EBS)
+      - [ ] Tipos de armazenamento com características associadas (por exemplo, objeto, arquivo, bloco)
+    - Habilidades em:
+      - [ ] Determinar quais serviços e configurações de armazenamento atendem às demandas de desempenho
+      - [ ] Determinar quais serviços de armazenamento que podem ser dimensionados para atender às necessidades futuras
