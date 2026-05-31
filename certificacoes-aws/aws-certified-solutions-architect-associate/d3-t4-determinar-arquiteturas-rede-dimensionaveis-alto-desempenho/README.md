@@ -14,7 +14,6 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 <img src="../../docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
 
-
 ## Tópicos da Certificação
 
 Tomando como base os tópicos da Certificação [AWS Certified Solutions Architect - Associate (SAA-C03) (aws-certified-solutions-architect-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1).
@@ -22,4 +21,14 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 3: Criação de arquiteturas de alto desempenho
     - [ ] Tarefa 4: Determinar arquiteturas de rede dimensionáveis e/ou de alto desempenho
-        - [ ] Habilidade 4: Titulo
+      - Conhecimento sobre:
+          - [ ] Serviços de redes de borda com casos de uso apropriados (por exemplo, Amazon CloudFront, AWS Global Accelerator).
+          - [ ] Como projetar arquitetura de rede (por exemplo, camadas de sub-rede, roteamento, endereçamento IP)
+          - [ ] Conceitos de balanceamento de carga (por exemplo, Application Load Balancer)
+          - [ ] Opções de conexão de rede (por exemplo, AWS VPN, AWS Direct Connect, AWS PrivateLink)
+      - Habilidades em:
+          - [ ] Criar uma topologia de rede para várias arquiteturas (por exemplo, global, híbrida, multicamadas)
+          - [ ] Determinar quais configurações de rede podem ser dimensionadas para acomodar necessidades futuras
+          - [ ] Determinar o posicionamento adequado dos recursos para atender aos requisitos empresariais
+          - [ ] Selecionar a estratégia de balanceamento de carga apropriada
+

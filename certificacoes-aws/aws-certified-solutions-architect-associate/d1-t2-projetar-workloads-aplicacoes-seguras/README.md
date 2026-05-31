@@ -25,4 +25,15 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 1: Criação de arquiteturas seguras
   - [ ] Tarefa 2: Projetar workloads e aplicações seguras
-    - [ ] Habilidade 1: Titulo
+    - Conhecimento sobre:
+      - [ ] Configuração de aplicações e segurança de credenciais
+      - [ ] Endpoints de serviço da AWS
+      - [ ] Controle de portas, protocolos e tráfego de rede na AWS
+      - [ ] Acesso seguro a aplicações
+      - [ ] Serviços de segurança com casos de uso apropriados (por exemplo, AWS Cognito, AWS GuardDuty, AWS Macie)
+      - [ ] Vetores de ameaças externos à AWS (por exemplo, DDoS, injeção de SQL)
+    - Habilidades em:
+      - [ ] Projetar arquiteturas de VPC com componentes de segurança (por exemplo, grupos de segurança, tabelas de rotas, ACLs de rede, gateways NAT)
+      - [ ] Determinar estratégias de segmentação de rede (por exemplo, usando sub-redes públicas e privadas)
+      - [ ] Integrar serviços da AWS para proteger aplicações (por exemplo, AWS Shield, AWS WAF, Centro de Identidade do IAM, AWS Secrets Manager)
+      - [ ] Proteger conexões de rede externas de e para a nuvem AWS (por exemplo, VPN, AWS Direct Connect)

@@ -24,4 +24,20 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 3: Criação de arquiteturas de alto desempenho
   - [ ] Tarefa 5: Determinar soluções de transformação e ingestão de dados de alto desempenho
-    - [ ] Habilidade 1: Titulo
+    - Conhecimento sobre:
+      - [ ] Serviços de data analytics e visualização de dados com casos de uso apropriados (por exemplo,
+      - [ ] Amazon Athena, AWS Lake Formation, Amazon QuickSuite)
+      - [ ] Padrões de ingestão de dados (por exemplo, frequência)
+      - [ ] Serviços de transferência de dados com casos de uso apropriados (por exemplo, AWS DataSync, AWS Storage Gateway)
+      - [ ] Serviços de transformação de dados com casos de uso apropriados (por exemplo, AWS Glue)
+      - [ ] Acesso seguro a pontos de acesso de ingestão
+      - [ ] Tamanhos e velocidades necessários para atender aos requisitos empresariais
+      - [ ] Serviços de streaming de dados com casos de uso apropriados (por exemplo, Amazon Kinesis)
+    - Habilidades em:
+      - [ ] Criar e proteger data lakes
+      - [ ] Projetar arquiteturas de fluxo de dados
+      - [ ] Projetar soluções de transferência de dados
+      - [ ] Implementar estratégias de visualização
+      - [ ] Selecionar opções de computação apropriadas para processamento de dados (por exemplo, Amazon EMR)
+      - [ ] Selecionar configurações apropriadas para ingestão
+      - [ ] Transformar dados entre formatos (por exemplo, .csv em .parquet)

@@ -25,4 +25,16 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
 ### OBJETIVOS DO EXAME AWS CERTIFICAÇÃO ABORDADOS NESTE TÓPICO
 - [ ] Domínio do conteúdo 1: Criação de arquiteturas seguras
   - [ ] Tarefa 3: Determinar os controles de segurança de dados apropriados
-    - [ ] Habilidade 1: Titulo 
+    - Conhecimento sobre:
+      - [ ] Acesso e governança de dados
+      - [ ] Recuperação de dados
+      - [ ] Classificação e retenção de dados
+      - [ ] Criptografia e gerenciamento de chaves apropriado
+    - Habilidades em:
+      - [ ] Alinhar as tecnologias da AWS para atender aos requisitos de conformidade
+      - [ ] Criptografar dados em repouso (por exemplo, AWS KMS)
+      - [ ] Criptografar dados em trânsito (por exemplo, AWS Certificate Manager [ACM] usando TLS)
+      - [ ] Implementar políticas de acesso para chaves de criptografia
+      - [ ] Implementar backups e replicações de dados
+      - [ ] Implementar políticas para acesso, ciclo de vida e proteção de dados
+      - [ ] Alternar chaves de criptografia e renovar certificados 
