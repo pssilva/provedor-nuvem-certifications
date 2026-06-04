@@ -55,7 +55,7 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1).
 
-### DIMÍNIOS DO EXAME AWS ABORDADOS NA CERTIFICAÇÃO
+### DOMÍNIOS DO EXAME AWS ABORDADOS NA CERTIFICAÇÃO
 
 - [ ] Domínio do Conteúdo 1: Soluções de Design de Complexidade Organizacional
   - Representa 26% da pontuação do conteúdo
