@@ -171,6 +171,12 @@ Seque abaixo as referências bibliográficas usadas no presente projeto:
 ---
 
 <p align="justify">
+[<a id="SK-Singh-aws-certified-solutions">SK Singh. AWS Certified Solutions Architect - Professional All-in-One Exam Prep Guide: Comprehensive Coverage of all Domains | 5 Full-Length Practice Tests | Exam Tips & Caution Alerts</a>]. 1 Ed. Cidade da publicação: KnoDAX, October 11, 2024. 2806 páginas. (B0DJWK21NV) . Disponível em: < <a href="https://a.co/d/00YIUN91">https://a.co/d/00YIUN91</a> >. Acesso em: 4 jun. 2026.
+</p>
+
+---
+
+<p align="justify">
 [<a id="SK-Singh">SK Singh. AWS Certified Developer - Associate Exam Prep and Study Guide: Comprehensive Coverage of all Exam Domains | 195 Practice Questions with Answer Explanations ... Exam Tips & Caution Alerts</a>]. (English Edition) United States of America: Editora KnoDAX, 17 outubro 2024. Copyright © 2024 KnoDAX Número de páginas: 587 páginas . (ISBN-13: 9781234567890 / ISBN-10: 1477123456) . Disponível em: < <a href="https://a.co/d/0d8N0VqI">https://a.co/d/0d8N0VqI</a> >. Acesso em: 29 mai. 2026.
 </p>
 

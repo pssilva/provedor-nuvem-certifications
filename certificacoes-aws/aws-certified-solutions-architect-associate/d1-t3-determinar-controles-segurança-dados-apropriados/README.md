@@ -32,8 +32,10 @@ Tomando como base os tópicos da Certificação [AWS Certified Solutions Archite
       - [ ] Criptografia e gerenciamento de chaves apropriado
     - Habilidades em:
       - [ ] Alinhar as tecnologias da AWS para atender aos requisitos de conformidade
-      - [ ] Criptografar dados em repouso (por exemplo, AWS KMS)
-      - [ ] Criptografar dados em trânsito (por exemplo, AWS Certificate Manager [ACM] usando TLS)
+      - [ ] Criptografar dados em repouso
+        - por exemplo, AWS KMS
+      - [ ] Criptografar dados em trânsito
+        - por exemplo, AWS Certificate Manager [ACM] usando TLS
       - [ ] Implementar políticas de acesso para chaves de criptografia
       - [ ] Implementar backups e replicações de dados
       - [ ] Implementar políticas para acesso, ciclo de vida e proteção de dados
