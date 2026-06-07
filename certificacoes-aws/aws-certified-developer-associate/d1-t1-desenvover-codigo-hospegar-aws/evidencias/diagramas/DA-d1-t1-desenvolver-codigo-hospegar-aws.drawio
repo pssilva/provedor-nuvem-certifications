@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="QR3lH7S48s4_NoRD3HSg">
-    <mxGraphModel dx="2852" dy="2256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,7 +549,7 @@
         <mxCell id="c2LuClekfDsPBb-q_veX-46" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="c2LuClekfDsPBb-q_veX-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="c2LuClekfDsPBb-q_veX-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c2LuClekfDsPBb-q_veX-1" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font style=&quot;font-size: 36px; color: light-dark(rgb(249, 88, 88), rgb(237, 237, 237));&quot;&gt;[TRABALHO EM PROGRESO]&lt;/font&gt;" vertex="1">
+        <mxCell id="c2LuClekfDsPBb-q_veX-1" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font style=&quot;font-size: 36px; color: light-dark(rgb(249, 88, 88), rgb(237, 237, 237));&quot;&gt;[TRABALHO EM PROGRESSO]&lt;/font&gt;" vertex="1">
           <mxGeometry height="26" width="80" x="733" y="33" as="geometry" />
         </mxCell>
       </root>
