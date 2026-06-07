@@ -18,13 +18,15 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
   - Explicar uma questão específica do Exame;
 - Ativação do conhecimento: escrever Manualmente (de 5x a 12x) as definições dos conceitos de memória;
 
-#### Evidência: {{TITULO_EVIDENCIA}}
+#### Evidência Estudos
 
-<img src="../../docs/imgs/Amazon-Web-Services-AWS-Logo.png"/>
+
+##### Diagramas
+<img src="../d1-desenvolvimento-servicos-aws/evidencias/diagramas/DA-Dominio1-Desenvolvimento-com-Serviços-AWS.png" alt="Diagrama Domínio 1 Desenvolvimento com Serviços AWS" style="width: 300px; height: 200px;" />
 
 ## Tópicos da Certificação
 
-Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
+Tomando como base os tópicos da [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
 
 ### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
 

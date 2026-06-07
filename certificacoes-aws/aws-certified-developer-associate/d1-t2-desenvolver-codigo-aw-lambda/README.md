@@ -19,17 +19,17 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 ## Tópicos da Certificação
 
-Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
+Tomando como base os tópicos da [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1). 
 
 
 ### OBJETIVOS DO EXAME AWS ABORDADOS NESTE TÓPICO
 
 - [ ] Domínio de Conteúdo 1: Desenvolvimento com Serviços AWS
   - [ ] Tarefa 2: Desenvolver código para AWS Lambda
-    - [ ] Habilidade (Skill): Descrever o acesso a recursos privados em VPCs a partir do código Lambda
-    - [ ] Habilidade (Skill): Configurar funções Lambda definindo variáveis de ambiente e parâmetros (por exemplo, memória, concorrência, tempo limite, tempo de execução, manipulador, camadas, extensões, gatilhos, destinos)
-    - [ ] Habilidade (Skill): Lidar com o ciclo de vida de eventos e erros usando código (por exemplo, Destinos Lambda, filas de mensagens não entregues)
-    - [ ] Habilidade (Skill): Escrever e executar código de teste usando serviços e ferramentas da AWS
-    - [ ] Habilidade (Skill): Integrar funções Lambda com serviços da AWS
-    - [ ] Habilidade (Skill): Otimizar funções Lambda para obter desempenho ideal
-    - [ ] Habilidade (Skill): Usar funções Lambda para processar e transformar dados em tempo quase real
+    - [ ] Descrever o acesso a recursos privados em VPCs a partir do código Lambda
+    - [ ] Configurar funções Lambda definindo variáveis de ambiente e parâmetros (por exemplo, memória, concorrência, tempo limite, tempo de execução, manipulador, camadas, extensões, gatilhos, destinos)
+    - [ ] Lidar com o ciclo de vida de eventos e erros usando código (por exemplo, Destinos Lambda, filas de mensagens não entregues)
+    - [ ] Escrever e executar código de teste usando serviços e ferramentas da AWS
+    - [ ] Integrar funções Lambda com serviços da AWS
+    - [ ] Otimizar funções Lambda para obter desempenho ideal
+    - [ ] Usar funções Lambda para processar e transformar dados em tempo quase real
