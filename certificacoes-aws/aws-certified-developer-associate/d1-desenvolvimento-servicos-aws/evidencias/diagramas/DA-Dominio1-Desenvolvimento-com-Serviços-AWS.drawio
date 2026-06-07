@@ -1,0 +1,63 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="QR3lH7S48s4_NoRD3HSg">
+    <mxGraphModel dx="800" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BqveDpwthGvtNva_fBKp-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;align=center;startSize=40;" value="&lt;h2 class=&quot;western&quot; style=&quot;line-height: 13.3333px; direction: ltr; break-inside: avoid; margin-top: 0cm; margin-bottom: 0cm; background: transparent; break-before: auto; break-after: avoid; font-size: 10pt; font-family: Arial, sans-serif;&quot;&gt;Domíno 1 &lt;br&gt;Desenvolvimento com Serviços AWS&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="400" width="490" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-3" parent="BqveDpwthGvtNva_fBKp-2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;" value="&lt;h2 class=&quot;western&quot; style=&quot;line-height: 13.3333px; direction: ltr; break-inside: avoid; margin-top: 0cm; margin-bottom: 0cm; background: transparent; break-before: auto; break-after: avoid; font-size: 10pt; font-family: Arial, sans-serif;&quot;&gt;Desenvolver Código&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-5" parent="BqveDpwthGvtNva_fBKp-2" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-7" parent="BqveDpwthGvtNva_fBKp-2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;" value="&lt;h2 class=&quot;western&quot; style=&quot;line-height: 13.3333px; direction: ltr; break-inside: avoid; margin-top: 0cm; margin-bottom: 0cm; background: transparent; break-before: auto; break-after: avoid; font-size: 10pt; font-family: Arial, sans-serif;&quot;&gt;Desenvolver Código &lt;br&gt;(AWS Lambda)&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="34" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-9" parent="BqveDpwthGvtNva_fBKp-2" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Aplicação &lt;br&gt;Stateless?" vertex="1">
+          <mxGeometry height="50" width="115" x="197.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-22" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BqveDpwthGvtNva_fBKp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-12" parent="BqveDpwthGvtNva_fBKp-2" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;" value="&lt;h2 class=&quot;western&quot; style=&quot;line-height: 13.3333px; direction: ltr; break-inside: avoid; margin-top: 0cm; margin-bottom: 0cm; background: transparent; break-before: auto; break-after: avoid; font-size: 10pt; font-family: Arial, sans-serif;&quot;&gt;Armazenamentos de Dados&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="180" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-10" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-9" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="BqveDpwthGvtNva_fBKp-3" value="no">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="519" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-11" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-9" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="BqveDpwthGvtNva_fBKp-7" value="yes">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="379" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-16" parent="BqveDpwthGvtNva_fBKp-2" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="10" width="200" x="155" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-17" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-16" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="BqveDpwthGvtNva_fBKp-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-18" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="BqveDpwthGvtNva_fBKp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-19" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="BqveDpwthGvtNva_fBKp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-20" parent="BqveDpwthGvtNva_fBKp-2" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BqveDpwthGvtNva_fBKp-21" edge="1" parent="BqveDpwthGvtNva_fBKp-2" source="BqveDpwthGvtNva_fBKp-20" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="BqveDpwthGvtNva_fBKp-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="327.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

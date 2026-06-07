@@ -53,7 +53,7 @@ Para consolidação do conhecimento, usaremos a [Técnica Faynman](https://youtu
 
 ## Tópicos da Certificação
 
-Tomando como base os tópicos da Certificação [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1).
+Tomando como base os tópicos da [Certificação AWS Certified Developer – Associate (aws-certified-developer-associate)](https://aws.amazon.com/pt/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1).
 
 ### DOMÍNIOS DO EXAME AWS ABORDADOS NA CERTIFICAÇÃO
 

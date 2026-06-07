@@ -21,7 +21,7 @@ Até o momento, aplicáveis ao presente projeto, temos as seguintes indexações
 
 ### Status Parcialmente Idexadas
 
-* [TRABALHO EM PROGRESSO](). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
+* [PLAYLIST 13 VÍDEOS – 03.04.07.62 –Fundamentos de Arquitetura de Software e System Design – por Renato Augusto – Questões](../docs/indexacoes/PLAYLIST%2013%20VÍDEOS%20–%2003.04.07.62%20–Fundamentos%20de%20Arquitetura%20de%20Software%20e%20System%20Design%20–%20por%20Renato%20Augusto%20–%20Questões.pdf). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
 
 ---
 
