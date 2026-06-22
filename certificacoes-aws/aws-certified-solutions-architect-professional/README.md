@@ -144,3 +144,9 @@ Seque abaixo as referências bibliográficas usadas no presente projeto:
 ### Vídeos / Playlists
 
 ---
+
+<p align="justify"> 
+[<a id="SYSTEM-DESIGN-Escalando-Arquitetura-Zero">SYSTEM DESIGN: Escalando uma Arquitetura do Zero a Um Milhão de Usuários | Arquitetura de Software</a>]. Direção: @Renato Augusto. Produção: @Renato Augusto. Realização: @Renato Augusto. Roteiro: @Renato Augusto. Fotografia: N/A. Intérpretes: N/A; Local: Canal do Youtube: <a href="https://www.youtube.com/@RenatoAugustoTech">@Renato Augusto</a>, 23 de fev. de 2025. (stream de vídeo, mp3, cor, legenda, tradução, web). Disponível em: < <a href="https://youtu.be/9g7twJrXqoY?si=G1tmz_60yMnr_eFA"> https://youtu.be/9g7twJrXqoY?si=G1tmz_60yMnr_eFA </a> >. Acesso em: 21. jun. 2026.
+</p>
+
+---
