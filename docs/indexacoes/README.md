@@ -19,6 +19,9 @@ Até o momento, aplicáveis ao presente projeto, temos as seguintes indexações
 
 * [PLAYLIST 19 VIDEOS – 03.04.07.18.06 – Curso Multithread, Paralelismo e Concorrência com Java – RinaldoDev – Questões](PLAYLIST%2019%20VIDEOS%20–%2003.04.07.18.06%20–%20Curso%20Multithread,%20Paralelismo%20e%20Concorrência%20com%20Java%20–%20RinaldoDev%20–%20Questões.pdf). Playlist totalmente indexada e relacionada com os questionários de contextos!
 
+* [VIDEO LONGO 3916 – 03.04.07.62 – System Design - Escalando uma Arquitetura do Zero a Um Milhão de Usuários | Arquitetura de Software – Questões](VIDEO%20LONGO%203916%20–%2003.04.07.62%20–%20System%20Design%20-%20Escalando%20uma%20Arquitetura%20do%20Zero%20a%20Um%20Milhão%20de%20Usuários%20|%20Arquitetura%20de%20Software%20–%20Questões.pdf). Vídeo totalmente indexada e relacionada com os questionários de contextos!
+
+
 ### Status Parcialmente Idexadas
 
 * [PLAYLIST 13 VÍDEOS – 03.04.07.62 –Fundamentos de Arquitetura de Software e System Design – por Renato Augusto – Questões](../docs/indexacoes/PLAYLIST%2013%20VÍDEOS%20–%2003.04.07.62%20–Fundamentos%20de%20Arquitetura%20de%20Software%20e%20System%20Design%20–%20por%20Renato%20Augusto%20–%20Questões.pdf). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
